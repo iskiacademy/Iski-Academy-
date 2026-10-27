@@ -1,0 +1,23 @@
+{
+  "routes": [
+    {"path":"/","title":"iSki Academy — Kopaonik Ski Coaching"},
+    {"path":"/families","title":"Family Ski Lessons in Kopaonik"},
+    {"path":"/kids","title":"Kids Ski Lessons in Kopaonik"},
+    {"path":"/adults","title":"Adult Ski Lessons in Kopaonik"},
+    {"path":"/performance","title":"Performance Ski Coaching in Kopaonik"},
+    {"path":"/about/igor-andric","title":"About Igor Andrić"},
+    {"path":"/gallery","title":"iSki Academy Gallery"},
+    {"path":"/plan-your-visit","title":"Plan Your Kopaonik Visit"},
+    {"path":"/prices","title":"Ski Lesson Prices in Kopaonik"},
+    {"path":"/faq","title":"Frequently Asked Questions"},
+    {"path":"/contact","title":"Contact iSki Academy"},
+    {"path":"/book","title":"Book a Ski Lesson"},
+    {"path":"/partners","title":"Kopaonik Ski School Partners"},
+    {"path":"/admin","title":"Private iSki Staff Desk"},
+    {"path":"/admin/bookings","title":"Staff Booking Management"},
+    {"path":"/admin/bookings/:id","title":"Staff Booking Details"},
+    {"path":"/admin/availability","title":"Staff Availability Calendar"},
+    {"path":"/admin/instructors","title":"Staff Instructor Operations"},
+    {"path":"/admin/settings","title":"Private Business Settings"}
+  ]
+}
