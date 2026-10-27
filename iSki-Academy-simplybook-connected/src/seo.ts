@@ -1,4 +1,4 @@
-export const SITE_ORIGIN = 'https://iskiacademy.com'
+export const SITE_ORIGIN = 'https://iski.academy'
 
 export type PageMetadata = {
   title: string
